@@ -95,7 +95,7 @@ const Header = () => {
               value="blinkit"
               className="flex items-center gap-2 px-4 py-2.5 rounded-[10px] text-sm font-medium text-black data-[state=active]:bg-[#DFEAE8] data-[state=active]:shadow-none transition-all min-h-[30px]"
             >
-              <Image src="/blinkit.svg" width={20} height={20} alt="blinkit" />
+              <Image src="/blinkIt.svg" width={20} height={20} alt="blinkit" />
               <span>Blinkit</span>
             </TabsTrigger>
 
